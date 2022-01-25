@@ -1,4 +1,4 @@
-SLAM and Navigation ROS package for Differential wheeled robot
+SLAM and Navigation ROS package for Differential wheeled robot (Code will be published soon!)
 =
 Hardware
 -
